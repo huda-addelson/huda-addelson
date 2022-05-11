@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm arsyaadi</h1>
+<h1 align="center">Hi, I'm arsya</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
