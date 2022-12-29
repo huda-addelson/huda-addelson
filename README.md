@@ -4,6 +4,9 @@
 
 - 📫 How to reach me **arsyaadi@gmail.com**
 
+### 👨🏽‍💻 HacktoberFest 2022 Badges
+[![An image of @arsyaadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arsyaadi)](https://holopin.io/@arsyaadi)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arsyaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsyaadi" height="30" width="40" /></a>
