@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **arsyaadi@gmail.com**
 
-### 👨🏽‍💻 HacktoberFest 2022 Badges
-[![An image of @arsyaadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arsyaadi)](https://holopin.io/@arsyaadi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
