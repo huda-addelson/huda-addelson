@@ -7,21 +7,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C848%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   49 commits          ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Wednesday                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Friday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Sunday                   49 commits          ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -46,7 +31,7 @@ Mac                      17 hrs 43 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/arsyaadi/arsyaadi/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2024 09:21:25 UTC
+ Last Updated on 27/06/2024 09:27:49 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **arsyaadi@gmail.com**
