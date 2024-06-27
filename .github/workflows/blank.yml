@@ -16,10 +16,10 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
+          SHOW_TITLE: "TRUE"
           TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
+          SHOW_TIME: "True"
+          SHOW_MASKED_TIME: "True"
           LANG_COUNT: 5
           IGNORED_LANGUAGES: YAML JSON TOML MARKDOWN
           
