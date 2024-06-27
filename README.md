@@ -4,6 +4,9 @@
 
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 📫 How to reach me **arsyaadi@gmail.com**
 
 
