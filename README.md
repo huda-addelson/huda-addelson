@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C848%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C848%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,17 +21,10 @@ Markdown                 26 mins             █░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  17 hrs 43 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      17 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arsyaadi/arsyaadi/main/assets/bar_graph.png)
-
-
- Last Updated on 27/06/2024 09:27:49 UTC
+ Last Updated on 27/06/2024 09:54:54 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **arsyaadi@gmail.com**
