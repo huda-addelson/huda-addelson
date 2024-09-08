@@ -5,27 +5,8 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=arsyaadi&label=Profile%20views&color=0e75b6&style=flat" alt="arsyaadi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C213%20hrs%2053%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      11 hrs 47 mins      ████████████░░░░░░░░░░░░░   49.88 % 
-C#                       7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
-Dart                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-
-🔥 Editors: 
-VS Code                  22 hrs 35 mins      ████████████████████████░   95.52 % 
-Neovim                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-```
-
-
- Last Updated on 07/09/2024 23:17:39 UTC
+ Last Updated on 08/09/2024 23:20:26 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **itsme@arsyaadi.software**
