@@ -34,6 +34,6 @@ Last Updated on 21/11/2024 23:20:05 UTC
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-khoirul-huda-559006139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsyaadi" height="30" width="40" /></a>
-<a href="https://fb.com/arsya.xkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arsya.xkz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19520749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19520749" height="30" width="40" /></a>
+<a href="https://fb.com/khoirul.huda.35513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arsya.xkz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19123792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19520749" height="30" width="40" /></a>
 </p>
