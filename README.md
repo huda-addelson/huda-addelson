@@ -23,7 +23,7 @@ No Activity Tracked This Week
  Last Updated on 22/11/2024 06:30:14 UTC
 <!--END_SECTION:waka-->
 
-- 📫 How to reach me **itsme@arsyaadi.software**
+- 📫 How to reach me **hudaaddelson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
