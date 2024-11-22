@@ -5,31 +5,25 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=huda-addelson&label=Profile%20views&color=0e75b6&style=flat" alt="hudaaddelson" /> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C412%20hrs%2047%20mins-blue)
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages:
-TypeScript               11 hrs 8 mins       ██████████████░░░░░░░░░░░   57.19 %
-Vue.js                   7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.67 %
-Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-🔥 Editors:
-VS Code                  18 hrs 25 mins      ████████████████████████░   94.59 %
-Neovim                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+🔥 Editors: 
+No Activity Tracked This Week
 ```
 
-Last Updated on 21/11/2024 23:20:05 UTC
 
+ Last Updated on 22/11/2024 06:30:14 UTC
 <!--END_SECTION:waka-->
 
-- 📫 How to reach me **itsme@arsyaadi.software**
+- 📫 How to reach me **hudaaddelson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
