@@ -13,17 +13,18 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   19 mins             █████████████████████░░░░   83.17 % 
+JavaScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2025 23:22:19 UTC
+ Last Updated on 21/04/2025 23:23:22 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
