@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=huda-addelson&label=Profile%20views&color=0e75b6&style=flat" alt="hudaaddelson" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2056%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,7 +27,7 @@ Windows                  19 hrs 1 min        ███████████�
 ```
 
 
- Last Updated on 20/06/2025 23:25:28 UTC
+ Last Updated on 21/06/2025 23:23:58 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
