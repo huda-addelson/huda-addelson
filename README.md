@@ -13,17 +13,20 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 24 mins        █████████████████████░░░░   85.07 % 
+Bash                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/10/2025 23:21:58 UTC
+ Last Updated on 07/10/2025 23:21:52 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
