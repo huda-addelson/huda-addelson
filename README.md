@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=huda-addelson&label=Profile%20views&color=0e75b6&style=flat" alt="hudaaddelson" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2014%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,17 +13,20 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               11 mins             █████████████████████████   100.00 % 
+TypeScript               2 hrs 9 mins        █████████████████████████   99.45 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/11/2025 23:24:04 UTC
+ Last Updated on 05/11/2025 23:24:43 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
