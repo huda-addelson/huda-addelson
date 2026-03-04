@@ -13,21 +13,21 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 6 mins        ███████████████████░░░░░░   75.88 % 
-JSON                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-TSConfig                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               4 hrs 51 mins       ███████████████████░░░░░░   74.95 % 
+JSON                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+TSConfig                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/03/2026 23:34:59 UTC
+ Last Updated on 04/03/2026 23:37:59 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
