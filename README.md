@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=huda-addelson&label=Profile%20views&color=0e75b6&style=flat" alt="hudaaddelson" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,20 +13,20 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 16 mins       ████████████████████████░   94.19 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript               6 hrs 10 mins       ████████████████████████░   94.99 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2026 23:46:26 UTC
+ Last Updated on 10/04/2026 23:44:22 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
