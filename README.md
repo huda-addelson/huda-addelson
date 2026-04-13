@@ -13,20 +13,19 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               6 hrs 10 mins       ████████████████████████░   94.99 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               5 hrs 34 mins       ███████████████████████░░   92.77 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2026 23:44:55 UTC
+ Last Updated on 13/04/2026 23:53:23 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
