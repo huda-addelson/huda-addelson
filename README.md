@@ -5,7 +5,7 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=huda-addelson&label=Profile%20views&color=0e75b6&style=flat" alt="hudaaddelson" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2035%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,22 +13,22 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.76 % 
-Vue                      3 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.69 % 
-JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-SCSS                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Vue                      3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.92 % 
+TypeScript               2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+SCSS                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 36 mins       ███████████████░░░░░░░░░░   60.09 % 
-Windows                  3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.91 % 
+Mac                      4 hrs 36 mins       █████████████████░░░░░░░░   69.85 % 
+Windows                  1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
 ```
 
 
- Last Updated on 21/04/2026 23:43:59 UTC
+ Last Updated on 22/04/2026 23:53:07 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
