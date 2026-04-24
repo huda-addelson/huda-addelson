@@ -13,22 +13,22 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue                      3 hrs 1 min         ███████████████░░░░░░░░░░   59.90 % 
-TypeScript               58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-JSON                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-SCSS                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Vue                      3 hrs 1 min         ████████████████░░░░░░░░░   62.82 % 
+JSON                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+TypeScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+SCSS                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 36 mins       ███████████████████████░░   91.47 % 
-Windows                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Mac                      4 hrs 36 mins       ████████████████████████░   95.93 % 
+Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 
 
- Last Updated on 23/04/2026 23:54:22 UTC
+ Last Updated on 24/04/2026 23:49:52 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
