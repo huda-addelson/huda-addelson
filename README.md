@@ -7,8 +7,23 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2013%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 01/06/2026 00:12:16 UTC
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+JavaScript               3 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  3 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 02/06/2026 00:20:10 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
