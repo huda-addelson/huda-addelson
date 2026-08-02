@@ -15,23 +15,46 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 52 mins       ██████████████████░░░░░░░   71.88 % 
+SQL                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+nvmrc                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 59 mins       ███████████████████░░░░░░   74.79 % 
+VS Code                  46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Opencode Cli             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 32 mins (88.69%)
+
+✍️ 3,886 lines written by AI, 965 lines written by hand (80.11% AI-written)
+
+🔤 177,387,104 Input Tokens, 415,097 Output Tokens
+
+💵 $538.39 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 22 AI Prompts
+
+Sonnet                   4,015 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 80.11% of written lines came from AI
+📄 Detailed Prompter — average 855 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 27.93% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 00:06:42 UTC
+ Last Updated on 02/08/2026 00:03:21 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
