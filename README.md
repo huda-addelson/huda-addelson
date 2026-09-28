@@ -15,23 +15,43 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Dart                     57 mins             ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Bash                     50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Opencode Cli             3 hrs 24 mins       ███████████████████████░░   93.87 % 
+VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 36 mins (99.23%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 1,425,544 Input Tokens, 261,012 Output Tokens
+
+💵 $39.88 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 20 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 154 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 01:17:25 UTC
+ Last Updated on 28/09/2026 01:31:03 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
