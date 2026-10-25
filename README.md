@@ -15,42 +15,45 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+CSS                      5 mins              ██████████████░░░░░░░░░░░   54.94 % 
+Other                    2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-Opencode Cli             2 mins              ████████████████████░░░░░   78.32 % 
-Claude Code              0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+VS Code                  7 mins              ██████████████████░░░░░░░   70.55 % 
+Opencode Cli             2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Claude Code              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (100.0%)
+⏱ AI Coding Time: 9 mins (86.27%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 342,164 Input Tokens, 2,074 Output Tokens
+🔤 353,486 Input Tokens, 3,867 Output Tokens
 
-💵 $2.13 Estimated AI Cost This Week
+💵 $2.26 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 63 characters per prompt
+📝 Concise Prompter — average 243 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 01:27:51 UTC
+ Last Updated on 25/10/2026 00:58:50 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
