@@ -5,9 +5,9 @@
 <p align="left"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=huda-addelson&label=Profile%20views&color=0e75b6&style=flat" alt="hudaaddelson" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2047%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -15,15 +15,13 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-CSS                      5 mins              ██████████████░░░░░░░░░░░   54.94 % 
-Other                    2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+CSS                      5 mins              ██████████████░░░░░░░░░░░   55.40 % 
+Git Config               3 mins              ████████░░░░░░░░░░░░░░░░░   30.75 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 
 🔥 Editors: 
-VS Code                  7 mins              ██████████████████░░░░░░░   70.55 % 
-Opencode Cli             2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Claude Code              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+VS Code                  7 mins              █████████████████░░░░░░░░   69.25 % 
+Claude Code              3 mins              ████████░░░░░░░░░░░░░░░░░   30.75 % 
 
 💻 Operating System: 
 Mac                      10 mins             █████████████████████████   100.00 % 
@@ -32,28 +30,27 @@ Mac                      10 mins             ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (86.27%)
+⏱ AI Coding Time: 9 mins (86.15%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 26 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 353,486 Input Tokens, 3,867 Output Tokens
+🔤 26,305 Input Tokens, 5,535 Output Tokens
 
-💵 $2.26 Estimated AI Cost This Week
+💵 $0.41 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     26 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 243 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 494 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 00:58:50 UTC
+ Last Updated on 26/10/2026 01:05:09 UTC
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **hudaaddelson@gmail.com**
